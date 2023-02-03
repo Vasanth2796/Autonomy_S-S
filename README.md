@@ -1,1 +1,1 @@
-Exploring Git
+Exploring Git.
